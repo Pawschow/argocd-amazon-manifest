@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: yrenamm/ibtamazonish:latest
+        image: yrenamm/ibtamazonish:5
         ports:
         - containerPort: 3000
         
